@@ -1,0 +1,4 @@
+[senha]: 
+[servidor]:
+[usuario]: 
+[bd]:

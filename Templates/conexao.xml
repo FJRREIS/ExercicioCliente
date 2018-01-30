@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<exercicioDesenv>
+	<conexao>
+		<servidor></servidor>
+		<bd></bd>
+		<usuario></usuario>
+		<senha></senha>
+	</conexao>
+</exercicioDesenv>
